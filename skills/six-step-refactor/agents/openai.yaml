@@ -1,0 +1,4 @@
+interface:
+  display_name: "six-step-refactor"
+  short_description: "把明确问题制作成可验证的 six-step-refactor Skill"
+  default_prompt: "使用 $six-step-refactor 完成它所解决的任务，并按可观察标准检查结果。"
